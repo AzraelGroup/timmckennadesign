@@ -34,7 +34,7 @@ collections:
     permalink: {{ site.baseurl }}/projects/:slug
   videos:
     output: true
-    permalink:{{ site.baseurl }} /videos/:slug
+    permalink: {{ site.baseurl }}/videos/:slug
   gallery:
     output: true
     permalink: {{ site.baseurl }}/gallery/:slug
