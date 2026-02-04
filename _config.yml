@@ -25,19 +25,19 @@ paginate_path: "/blog/page/:num"
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: {{ site.baseurl }}/:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: {{ site.baseurl }}/blog/:slug
   projects:
     output: true
-    permalink: /projects/:slug
+    permalink: {{ site.baseurl }}/projects/:slug
   videos:
     output: true
-    permalink: /videos/:slug
+    permalink:{{ site.baseurl }} /videos/:slug
   gallery:
     output: true
-    permalink: /gallery/:slug
+    permalink: {{ site.baseurl }}/gallery/:slug
 
 # Pages Path
 defaults:
