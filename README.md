@@ -1,7 +1,6 @@
 # Tim McKenna Design
 
 Personal Professional Portfolio Site
-Test Two
 
 * * *
 
