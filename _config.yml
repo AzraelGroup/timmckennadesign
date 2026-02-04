@@ -1,7 +1,10 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: "Tim McKenna – Design Executive"
+description: "Senior Product & Design Leader"
+url: "https://timmckenna.design"
+baseurl: ""  # keep empty if serving at the domain root
+
 
 
 #-------------------------------
