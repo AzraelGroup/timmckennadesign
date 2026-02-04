@@ -1,4 +1,4 @@
-# Priam – Minimalistic Portfolio Theme for Jekyll
+# Tim McKenna Design
 
 Personal Professional Portfolio Site
 
