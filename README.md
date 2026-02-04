@@ -1,6 +1,8 @@
 # Tim McKenna Design
 
-Personal Professional Portfolio Site
+Personal Professional 
+
+Portfolio Site
 
 * * *
 
