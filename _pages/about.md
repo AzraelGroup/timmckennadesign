@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Tim McKenna is an experienced design and product leader focusing on efficient, sustainable growth with a proven history of creating transformative experiences that drive business success. With over 20 years of creating products and services, building brands, and growing businesses, I've honed my skills as a strategic leader, adept at building and guiding global design teams to deliver results.
-permalink: /about/
+permalink: {{ site.baseurl }}/about/
 image: '/images/01-2.jpg'
 page_cover: '/images/01.jpg'
 ---
