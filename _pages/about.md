@@ -1,15 +1,23 @@
 ---
 layout: page
-title: 👨🏻‍💻 About
-description: Dave Nixon is a highly skilled web designer with years of industry experience. His creative journey began with a fascination for blending art and technology, and he has since honed his skills to become a versatile designer who can transform ideas into captivating visual narratives.
+title: About
+description: Tim McKenna is an experienced design and product leader focusing on efficient, sustainable growth with a proven history of creating transformative experiences that drive business success. With over 20 years of creating products and services, building brands, and growing businesses, I've honed my skills as a strategic leader, adept at building and guiding global design teams to deliver results.
 permalink: /about/
 image: '/images/01-2.jpg'
 page_cover: '/images/01.jpg'
 ---
 
-Dave believes that great design goes beyond aesthetics – it should tell a story, evoke emotions, and drive meaningful user interactions.
+Hi, I'm Tim McKenna
 
-Browse through Dave's portfolio to see his impressive body of work. From sleek corporate websites to vibrant e-commerce platforms and immersive landing pages, each project showcases Dave's ability to translate ideas into impactful visual experiences. Get inspired by his use of color palettes, typography, and innovative design elements that push the boundaries of creativity.
+As a seasoned design leader and product strategist, I've cultivated a diverse skill set that spans the spectrum of design disciplines. My journey has taken me through roles as a designer, UI engineer, product manager, and researcher, culminating in a decade of design leadership. This multifaceted experience has honed my expertise in design principles, user-centered methodologies, and innovation—qualities that are evident in every project I undertake.
+
+One of my key strengths lies in building, scaling, and nurturing high-performing design teams. Throughout my career, I've successfully led teams of talented designers, researchers, and content designers. I've assembled effective teams and provide strategic guidance has been instrumental in developing user-centered products and experiences that drive business success.
+
+At the core of my professional approach is a commitment to collaborative leadership. I excel at working seamlessly with cross-functional partners, including product management, engineering, business intelligence, sales, and customer support. This collaborative ethos ensures that the products and experiences we create are not only visually compelling but also strategically aligned with business objectives.
+
+What distinguishes my leadership style is its foundation in compassion and inclusivity. I operate with a servant leadership mentality, prioritizing the growth and well-being of my team members. This approach fosters an environment where creativity thrives, individuals feel valued, and everyone is inspired to contribute their best work.
+
+In the dynamic landscape of design, my extensive experience, leadership acumen, and unwavering commitment to fostering both team and personal success make me a formidable force. I bring a unique blend of technical expertise, strategic thinking, and people-centric leadership to every project, driving innovation and delivering exceptional results.
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
